@@ -1,3 +1,5 @@
+#faça um jogo de dados que sorteia um numero de 1,6 e compara com o numero que o usuario digitou
+
 import random
 
 r = 'sim'

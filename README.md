@@ -1,8 +1,9 @@
 # Exercicios_Python
 
-usando a lista de exercicios PythonforZumbis
-## exercicios usando variaveis , loops e condições
+Usando a lista de exercicios PythonforZumbis
+## exercicios usando variaveis , loops , condições e dicionarios
 
-- [x] variaveis
-- [x] condições
-- [x] loops
+- [x] Variaveis
+- [x] Condições
+- [x] Loops
+- [x] Dicionarios
